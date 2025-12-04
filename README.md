@@ -1,6 +1,4 @@
-Support Vector Machines with Python: Breast Cancer Classification
-
-Overview
+Overview:
 This project demonstrates how to use Support Vector Machines (SVM), a powerful supervised learning method, to classify breast cancer tumors using the widely-used Breast Cancer Wisconsin (Diagnostic) dataset. The notebook follows a complete machine learning workflow: data loading, exploratory analysis, preprocessing, model training, and evaluation, all within Python.
 
 Dataset:
